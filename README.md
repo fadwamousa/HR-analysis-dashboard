@@ -1,5 +1,5 @@
 # Overview of the HR Analytics Dashboard
--> The Power BI dashboard offers a comprehensive visualization of key HR metrics, providing insightful data on our workforce. Below is a summary of the key components and visualizations included in the dashboard:
+> The Power BI dashboard offers a comprehensive visualization of key HR metrics, providing insightful data on our workforce. Below is a summary of the key components and visualizations included in the dashboard:
 1. Employee Distribution:
 
 * By Department: A detailed breakdown showing the number of employees in each department.
